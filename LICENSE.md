@@ -1,4 +1,4 @@
-
+Enhance Fantastical for macOS with automatic Integration for Fantastical for macOS - widgets and collaboration, the #1 integration. Includes widgets and collaboration for a
 
 
 
